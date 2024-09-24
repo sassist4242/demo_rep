@@ -14,3 +14,8 @@ LaTeX: pdfLaTeX
 
 AutoAppendNewline: Yes
 StripTrailingWhitespace: Yes
+
+BuildType: Package
+PackageUseDevtools: Yes
+PackagePath: C:/Users/hju/OneDrive - Environmental Protection Agency (EPA)/Profile/Documents/R projects/demo_rep
+PackageInstallArgs: --no-multiarch --with-keep.source
